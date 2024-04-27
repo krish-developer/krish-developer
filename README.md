@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">Tech enthusiast and problem solver</h3>
 
--  👨‍💻  Experienced Software Engineer with specializing in the MERN/PERN stack. Committed to delivering high-quality, scalable, and user-friendly applications, I bring strong problem-solving skills and a passion for staying current with industry trends.
+**About Me:**
+
+-   👨‍💻  Experienced Software Engineer with specializing in the MERN/PERN stack. Committed to delivering high-quality, scalable, and user-friendly applications, I bring strong problem-solving skills and a passion for staying current with industry trends.
 
 - 📫 How to reach me **krish.developer8@gmail.com**
 
