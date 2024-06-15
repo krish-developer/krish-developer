@@ -4,8 +4,9 @@
 **About Me:**
 
 -   👨‍💻  Experienced Software Engineer with specializing in the ReactJs, NodeJs and NextJs (MERN/PERN) stack. Committed to delivering high-quality, scalable, and user-friendly applications, I bring strong problem-solving skills and a passion for staying current with industry trends.
+- 🤝 Feel free to reach out if you have any questions or if you would like to collaborate on a project! 
+- 📧 **krish.developer8@gmail.com**
 
-- 📫 How to reach me **krish.developer8@gmail.com**
 
 
 <!--<h3 align="left">Connect with me:</h3>-->
